@@ -1,0 +1,3158 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DBeaver",
+          "description": "Free universal database manager and SQL client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T23:40:07Z",
+            "owner": "dbeaver",
+            "repo": "dbeaver",
+            "stars": 51436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeidiSQL",
+          "description": "A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2026-08-07T06:32:44Z",
+            "owner": "HeidiSQL",
+            "repo": "HeidiSQL",
+            "stars": 6209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataStation",
+          "description": "Easily query, script, and visualize data from every database, file, and API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-10T18:44:29Z",
+            "owner": "multiprocessio",
+            "repo": "datastation",
+            "stars": 2957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Querybook",
+          "description": "Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:45:07Z",
+            "owner": "pinterest",
+            "repo": "querybook",
+            "stars": 2274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slashbase",
+          "description": "The open-source collaborative IDE for your databases. Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-04-28T14:54:32Z",
+            "owner": "slashbase",
+            "repo": "slashbaseide",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbKoda",
+          "description": "Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-20T22:59:00Z",
+            "owner": "SouthbankSoftware",
+            "repo": "dbkoda",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kangaroo",
+          "description": "A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TSQL",
+            "last_commit": "2026-07-31T06:42:25Z",
+            "owner": "dbkangaroo",
+            "repo": "kangaroo",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOra",
+          "description": "Open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-31T16:11:38Z",
+            "owner": "tora-tool",
+            "repo": "tora",
+            "stars": 296
+          }
+        }
+      ],
+      "title": "IDE"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Another Redis Desktop Manager",
+          "description": "Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T07:09:03Z",
+            "owner": "qishibo",
+            "repo": "AnotherRedisDesktopManager",
+            "stars": 34623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beekeeper Studio",
+          "description": "Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:48:03Z",
+            "owner": "beekeeper-studio",
+            "repo": "beekeeper-studio",
+            "stars": 23365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pgweb",
+          "description": "Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-26T22:30:33Z",
+            "owner": "sosedoff",
+            "repo": "pgweb",
+            "stars": 9476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robo 3T",
+          "description": "Shell-centric cross-platform MongoDB management tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-09-22T14:09:32Z",
+            "owner": "Studio3T",
+            "repo": "robomongo",
+            "stars": 9366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequel Pro",
+          "description": "Fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2023-02-25T08:11:30Z",
+            "owner": "sequelpro",
+            "repo": "sequelpro",
+            "stars": 9197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phpMyAdmin",
+          "description": "A web interface for MySQL and MariaDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T16:13:23Z",
+            "owner": "phpmyadmin",
+            "repo": "phpmyadmin",
+            "stars": 7911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adminer",
+          "description": "Database management in a single PHP file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T12:01:53Z",
+            "owner": "vrana",
+            "repo": "adminer",
+            "stars": 7742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Data Studio",
+          "description": "A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-02-28T16:30:21Z",
+            "owner": "microsoft",
+            "repo": "azuredatastudio",
+            "stars": 7687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequel Ace",
+          "description": "MySQL/MariaDB database management for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-08-13T00:07:06Z",
+            "owner": "Sequel-Ace",
+            "repo": "Sequel-Ace",
+            "stars": 7502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DbGate",
+          "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T12:32:41Z",
+            "owner": "dbgate",
+            "repo": "dbgate",
+            "stars": 7202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clidey WhoDB",
+          "description": "A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:58:54Z",
+            "owner": "clidey",
+            "repo": "whodb",
+            "stars": 5005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TablePlus",
+          "description": "Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-02T15:00:34Z",
+            "owner": "TablePlus",
+            "repo": "TablePlus",
+            "stars": 3812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniDB",
+          "description": "Web tool for database management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-01T00:34:47Z",
+            "owner": "OmniDB",
+            "repo": "OmniDB",
+            "stars": 3288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jailer",
+          "description": "Database Subsetting and Relational Data Browsing Tool/Client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T11:36:05Z",
+            "owner": "Wisser",
+            "repo": "Jailer",
+            "stars": 3194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antares SQL",
+          "description": "A modern, fast and productivity driven SQL client with a focus in UX. Available for Mac, Linux and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-10-14T13:31:05Z",
+            "owner": "antares-sql",
+            "repo": "antares",
+            "stars": 2643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabix",
+          "description": "SQL Editor & Open source simple business intelligence for Clickhouse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-15T20:02:30Z",
+            "owner": "tabixio",
+            "repo": "tabix",
+            "stars": 2299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlite-tui",
+          "description": "A TUI for viewing SQLite databases, written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-11T16:15:29Z",
+            "owner": "mathaou",
+            "repo": "termdbms",
+            "stars": 1817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLTools",
+          "description": "Database management for VSCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T10:07:18Z",
+            "owner": "mtxr",
+            "repo": "vscode-sqltools",
+            "stars": 1752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DB Lens",
+          "description": "Open Source PostgreSQL GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-07T08:46:43Z",
+            "owner": "dblens",
+            "repo": "app",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malewicz",
+          "description": "Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SQL",
+            "last_commit": "2025-01-04T21:09:21Z",
+            "owner": "mgramin",
+            "repo": "malewicz",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocelotgui",
+          "description": "For MySQL, MariaDB, and Tarantool. Developed for Linux but can run on Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-06T22:35:01Z",
+            "owner": "ocelot-inc",
+            "repo": "ocelotgui",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlpad",
+          "description": "Web-based SQL editor run in your own private cloud.",
+          "children": []
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "usql",
+          "description": "A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-19T14:42:20Z",
+            "owner": "xo",
+            "repo": "usql",
+            "stars": 10068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_activity",
+          "description": "Top-like application for PostgreSQL server activity monitoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T06:03:15Z",
+            "owner": "dalibo",
+            "repo": "pg_activity",
+            "stars": 3033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iredis",
+          "description": "A Cli for Redis with AutoCompletion and Syntax Highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T02:27:18Z",
+            "owner": "laixintao",
+            "repo": "iredis",
+            "stars": 2740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pspg",
+          "description": "PostgreSQL Pager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-28T06:36:42Z",
+            "owner": "okbob",
+            "repo": "pspg",
+            "stars": 2728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlite-utils",
+          "description": "CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:44:05Z",
+            "owner": "simonw",
+            "repo": "sqlite-utils",
+            "stars": 2148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipython-sql",
+          "description": "Connect to a database for issue SQL commands within IPython or IPython Notebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-12T16:16:57Z",
+            "owner": "catherinedevlin",
+            "repo": "ipython-sql",
+            "stars": 1798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgcenter",
+          "description": "Top-like admin tool for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T11:45:45Z",
+            "owner": "lesovsky",
+            "repo": "pgcenter",
+            "stars": 1624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLLine",
+          "description": "Command-line shell for issuing SQL to relational databases via JDBC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-07T21:54:21Z",
+            "owner": "julianhyde",
+            "repo": "sqlline",
+            "stars": 658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diesel-guard",
+          "description": "Linter for dangerous PostgreSQL migration patterns. It works seamlessly with PostgreSQL SQL files and integrates natively with projects using Diesel and SQLx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T13:06:29Z",
+            "owner": "ayarotsky",
+            "repo": "diesel-guard",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_top",
+          "description": "Top for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-06T22:09:32Z",
+            "owner": "markwkm",
+            "repo": "pg_top",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "CLI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pgcli",
+          "description": "PostgreSQL CLI with autocompletion and syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T15:06:13Z",
+            "owner": "dbcli",
+            "repo": "pgcli",
+            "stars": 13349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mycli",
+          "description": "A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:26:46Z",
+            "owner": "dbcli",
+            "repo": "mycli",
+            "stars": 11961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "litecli",
+          "description": "CLI for SQLite Databases with auto-completion and syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T20:25:31Z",
+            "owner": "dbcli",
+            "repo": "litecli",
+            "stars": 3289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mssql-cli",
+          "description": "A command-line client for SQL Server with auto-completion and syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-26T20:08:44Z",
+            "owner": "dbcli",
+            "repo": "mssql-cli",
+            "stars": 1412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "athenacli",
+          "description": "CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-24T14:02:40Z",
+            "owner": "dbcli",
+            "repo": "athenacli",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vcli",
+          "description": "Vertica CLI with auto-completion and syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-03-15T01:20:59Z",
+            "owner": "dbcli",
+            "repo": "vcli",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "dbcli"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Schema"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bytebase",
+          "description": "Web-based, zero-config, dependency-free database schema change and version control tool for teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:38:10Z",
+            "owner": "bytebase",
+            "repo": "bytebase",
+            "stars": 14375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gh-ost",
+          "description": "Online schema migration for MySQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T11:43:08Z",
+            "owner": "github",
+            "repo": "gh-ost",
+            "stars": 13516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flyway",
+          "description": "Database migration tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T12:28:41Z",
+            "owner": "flyway",
+            "repo": "flyway",
+            "stars": 9991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atlas",
+          "description": "Inspect and Apply changes to your database schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T09:01:02Z",
+            "owner": "ariga",
+            "repo": "atlas",
+            "stars": 8634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liquibase",
+          "description": "Database-independent library for tracking, managing and applying database schema changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T19:26:40Z",
+            "owner": "liquibase",
+            "repo": "liquibase",
+            "stars": 5583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sqitch",
+          "description": "Sensible database-native change management for framework-free development and dependable deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-08-02T02:44:21Z",
+            "owner": "sqitchers",
+            "repo": "sqitch",
+            "stars": 3151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqldef",
+          "description": "Idempotent schema management for MySQL, PostgreSQL, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T13:46:56Z",
+            "owner": "sqldef",
+            "repo": "sqldef",
+            "stars": 3139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "migra",
+          "description": "Like diff but for PostgreSQL schemas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-25T12:32:22Z",
+            "owner": "djrobstep",
+            "repo": "migra",
+            "stars": 3051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reshape",
+          "description": "An easy-to-use, zero-downtime schema migration tool for Postgres.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T12:45:48Z",
+            "owner": "fabianlindfors",
+            "repo": "reshape",
+            "stars": 1849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-pg-migrate",
+          "description": "Node.js database migration management built exclusively for PostgreSQL. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:00:51Z",
+            "owner": "salsita",
+            "repo": "node-pg-migrate",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skeema",
+          "description": "Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:35:18Z",
+            "owner": "skeema",
+            "repo": "skeema",
+            "stars": 1375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SchemaHero",
+          "description": "A Kubernetes operator for declarative database schema management (gitops for database schemas).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:18:42Z",
+            "owner": "schemahero",
+            "repo": "schemahero",
+            "stars": 1146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prisma Migrate",
+          "description": "Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-12-18T12:51:26Z",
+            "owner": "prisma",
+            "repo": "migrate",
+            "stars": 761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg-osc",
+          "description": "Easy CLI tool for making zero downtime schema changes and backfills in PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-23T06:29:34Z",
+            "owner": "shayonj",
+            "repo": "pg-osc",
+            "stars": 616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yuniql",
+          "description": "Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-25T11:16:39Z",
+            "owner": "rdagumampan",
+            "repo": "yuniql",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyrseas",
+          "description": "Provides utilities to describe a PostgreSQL database schema as YAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-10T21:03:13Z",
+            "owner": "perseas",
+            "repo": "Pyrseas",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2bass",
+          "description": "Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-12T21:41:54Z",
+            "owner": "CourseOrchestra",
+            "repo": "2bass",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Changes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ddl-generator",
+          "description": "Infers SQL DDL (Data Definition Language) from table data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-09-09T08:16:26Z",
+            "owner": "catherinedevlin",
+            "repo": "ddl-generator",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scheme2ddl",
+          "description": "Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-28T10:24:44Z",
+            "owner": "qwazer",
+            "repo": "scheme2ddl",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Code generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DrawDB",
+          "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:01:54Z",
+            "owner": "drawdb-io",
+            "repo": "drawdb",
+            "stars": 38956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChartDB",
+          "description": "Free and Open-source database diagrams editor, visualize and design your DB with a single query.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T09:12:45Z",
+            "owner": "chartdb",
+            "repo": "chartdb",
+            "stars": 22723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liam ERD",
+          "description": "Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T17:57:18Z",
+            "owner": "liam-hq",
+            "repo": "liam",
+            "stars": 4970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azimutt",
+          "description": "An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elm",
+            "last_commit": "2026-06-20T14:06:37Z",
+            "owner": "azimuttapp",
+            "repo": "azimutt",
+            "stars": 2161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERAlchemy",
+          "description": "Entity Relation Diagrams generation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-05T14:20:10Z",
+            "owner": "eralchemy",
+            "repo": "eralchemy",
+            "stars": 1424
+          }
+        }
+      ],
+      "title": "Diagrams"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tbls",
+          "description": "CI-Friendly tool for document a database, written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T05:53:44Z",
+            "owner": "k1LoW",
+            "repo": "tbls",
+            "stars": 4308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Schema Spy",
+          "description": "Generating your database to HTML documentation, including Entity Relationship diagrams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-05T20:31:40Z",
+            "owner": "schemaspy",
+            "repo": "schemaspy",
+            "stars": 3702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DBML",
+          "description": "Database Markup Language, designed to define and document database structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:01:22Z",
+            "owner": "holistics",
+            "repo": "dbml",
+            "stars": 3676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SchemaCrawler",
+          "description": "A free database schema discovery and comprehension tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T00:02:37Z",
+            "owner": "schemacrawler",
+            "repo": "SchemaCrawler",
+            "stars": 1823
+          }
+        }
+      ],
+      "title": "Documentations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pgmodeler",
+          "description": "Data modeling tool designed for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-22T19:16:44Z",
+            "owner": "nullptrlabs",
+            "repo": "pgmodeler",
+            "stars": 3583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WWW SQL Designer",
+          "description": "Online SQL diagramming tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-20T15:40:54Z",
+            "owner": "ondras",
+            "repo": "wwwsqldesigner",
+            "stars": 2930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Database Design",
+          "description": "Useful tips for designing robust database schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-26T11:16:55Z",
+            "owner": "alextanhongpin",
+            "repo": "database-design",
+            "stars": 500
+          }
+        }
+      ],
+      "title": "Design"
+    },
+    {
+      "description": "Building API for your Data",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hasura GraphQL Engine",
+          "description": "Blazing fast, instant realtime GraphQL APIs on PostgreSQL with fine grained access control, also trigger webhooks on database events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:28:07Z",
+            "owner": "hasura",
+            "repo": "graphql-engine",
+            "stars": 32081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgREST",
+          "description": "REST API for any PostgreSQL database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T22:52:45Z",
+            "owner": "PostgREST",
+            "repo": "postgrest",
+            "stars": 27595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prisma",
+          "description": "Turns your database into a realtime GraphQL API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2022-09-01T18:57:41Z",
+            "owner": "prisma",
+            "repo": "prisma1",
+            "stars": 16380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostGraphile",
+          "description": "Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T20:29:31Z",
+            "owner": "graphile",
+            "repo": "crystal",
+            "stars": 12929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datasette",
+          "description": "A tool for exploring and publishing data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:03:32Z",
+            "owner": "simonw",
+            "repo": "datasette",
+            "stars": 11381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prest",
+          "description": "Is a way to serve a RESTful API from any databases written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T22:40:38Z",
+            "owner": "prest",
+            "repo": "prest",
+            "stars": 4609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remult",
+          "description": "End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T08:59:29Z",
+            "owner": "remult",
+            "repo": "remult",
+            "stars": 3206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sandman2",
+          "description": "Automatically generate a RESTful API service for your legacy database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:59:21Z",
+            "owner": "jeffknupp",
+            "repo": "sandman2",
+            "stars": 2041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DreamFactory",
+          "description": "A open source REST API backend for mobile, web, and IoT applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T23:41:16Z",
+            "owner": "dreamfactorysoftware",
+            "repo": "dreamfactory",
+            "stars": 1777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soul",
+          "description": "Automatic SQLite RESTful and realtime API server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T05:21:47Z",
+            "owner": "thevahidal",
+            "repo": "soul",
+            "stars": 1682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VulcanSQL",
+          "description": "Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-01T02:57:10Z",
+            "owner": "Canner",
+            "repo": "vulcan-sql",
+            "stars": 792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphweaver",
+          "description": "Turn multiple data sources into a single GraphQL API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T17:02:54Z",
+            "owner": "exogee-technology",
+            "repo": "graphweaver",
+            "stars": 552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "restSQL",
+          "description": "SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-12T05:31:39Z",
+            "owner": "restsql",
+            "repo": "restsql",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resquel",
+          "description": "Easily convert your SQL database into a REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-06T17:24:18Z",
+            "owner": "formio",
+            "repo": "resquel",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JdbcREST",
+          "description": "REST API for any JDBC-backed database, a PostgREST clone written in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T15:09:04Z",
+            "owner": "synthesized-io",
+            "repo": "jdbcrest",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "Low-code and no-code platforms for application building",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appsmith",
+          "description": "Powerful open source low code framework to build internal applications really quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:29:08Z",
+            "owner": "appsmithorg",
+            "repo": "appsmith",
+            "stars": 40657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tooljet",
+          "description": "Open-source low-code platform to build internal tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:52:27Z",
+            "owner": "ToolJet",
+            "repo": "ToolJet",
+            "stars": 38595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Budibase",
+          "description": "Low-code platform for creating internal apps in minutes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:10:49Z",
+            "owner": "Budibase",
+            "repo": "budibase",
+            "stars": 28199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ILLA Cloud",
+          "description": "Low-code internal tool building platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T02:22:32Z",
+            "owner": "illacloud",
+            "repo": "illa-builder",
+            "stars": 12309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nhost",
+          "description": "The Open Source Firebase Alternative with GraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:42:23Z",
+            "owner": "nhost",
+            "repo": "nhost",
+            "stars": 9277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLPage",
+          "description": "Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T13:55:19Z",
+            "owner": "sqlpage",
+            "repo": "SQLPage",
+            "stars": 2537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saltcorn",
+          "description": "Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T07:37:42Z",
+            "owner": "saltcorn",
+            "repo": "saltcorn",
+            "stars": 2052
+          }
+        }
+      ],
+      "title": "Application platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Databasus",
+          "description": "Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:01:24Z",
+            "owner": "databasus",
+            "repo": "databasus",
+            "stars": 7902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgbackrest",
+          "description": "Reliable PostgreSQL Backup & Restore.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:47:19Z",
+            "owner": "pgbackrest",
+            "repo": "pgbackrest",
+            "stars": 4306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaRMan",
+          "description": "Backup and Recovery Manager for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T05:05:39Z",
+            "owner": "EnterpriseDB",
+            "repo": "barman",
+            "stars": 3217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portabase",
+          "description": "Agent-based platform for PostgreSQL backups and restores with decentralized execution and centralized orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T06:55:26Z",
+            "owner": "Portabase",
+            "repo": "portabase",
+            "stars": 1641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgcopydb",
+          "description": "Copy a PostgreSQL database to a target PostgreSQL server (pg_dump | pg_restore on steroids).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-03T19:56:48Z",
+            "owner": "dimitri",
+            "repo": "pgcopydb",
+            "stars": 1544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_probackup",
+          "description": "A backup and recovery manager for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T20:18:06Z",
+            "owner": "postgrespro",
+            "repo": "pg_probackup",
+            "stars": 799
+          }
+        }
+      ],
+      "title": "Backup"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telegraf PostgreSQL plugin",
+          "description": "Provides metrics for your PostgreSQL database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:28:18Z",
+            "owner": "influxdata",
+            "repo": "telegraf",
+            "stars": 17746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PgHero",
+          "description": "A performance dashboard for PostgreSQL - health checks, suggested indexes, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T15:46:07Z",
+            "owner": "ankane",
+            "repo": "pghero",
+            "stars": 8909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgwatch2",
+          "description": "Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PLpgSQL",
+            "last_commit": "2024-12-17T15:13:26Z",
+            "owner": "cybertec-postgresql",
+            "repo": "pgwatch2",
+            "stars": 1836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promscale",
+          "description": "The open-source observability backend for metrics and traces powered by SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-03-28T23:03:17Z",
+            "owner": "timescale",
+            "repo": "promscale",
+            "stars": 1312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgmetrics",
+          "description": "Collect and display information and stats from a running PostgreSQL server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T18:19:34Z",
+            "owner": "rapidloop",
+            "repo": "pgmetrics",
+            "stars": 1103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Percona Monitoring and Management",
+          "description": "Open source platform for managing and monitoring MySQL and MongoDB performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:40:21Z",
+            "owner": "percona",
+            "repo": "pmm",
+            "stars": 1083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgMonitor",
+          "description": "All-in-one tool to easily create an environment to visualize the health and performance of your PostgreSQL cluster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2026-04-23T12:34:51Z",
+            "owner": "CrunchyData",
+            "repo": "pgmonitor",
+            "stars": 713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgreSQL Metrics",
+          "description": "Service to extract and provide metrics on your PostgreSQL database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-29T21:56:05Z",
+            "owner": "spotify",
+            "repo": "postgresql-metrics",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pganalyze collector",
+          "description": "Pganalyze statistics collector for gathering PostgreSQL metrics and log data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:14:04Z",
+            "owner": "pganalyze",
+            "repo": "collector",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASH Viewer",
+          "description": "Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-04T11:03:40Z",
+            "owner": "akardapolov",
+            "repo": "ASH-Viewer",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgstats",
+          "description": "Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-16T15:39:35Z",
+            "owner": "gleu",
+            "repo": "pgstats",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mssql-monitoring",
+          "description": "Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-06-12T20:51:15Z",
+            "owner": "microsoft",
+            "repo": "mssql-monitoring",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgbadger",
+          "description": "A fast PostgreSQL Log Analyzer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-09-13T11:20:54Z",
+            "owner": "dalibo",
+            "repo": "pgbadger",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Monitoring/Statistics/Perfomance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "postgres_exporter",
+          "description": "Prometheus exporter for PostgreSQL server metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:23:38Z",
+            "owner": "prometheus-community",
+            "repo": "postgres_exporter",
+            "stars": 3593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_exporter",
+          "description": "Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T06:50:32Z",
+            "owner": "pgsty",
+            "repo": "pg_exporter",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgSCV",
+          "description": "Metrics exporter for PostgreSQL and PostgreSQL-related services.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-08-22T09:18:11Z",
+            "owner": "lesovsky",
+            "repo": "pgscv",
+            "stars": 174
+          }
+        }
+      ],
+      "title": "Prometheus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mamonsu",
+          "description": "Monitoring agent for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T10:10:23Z",
+            "owner": "postgrespro",
+            "repo": "mamonsu",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_monz",
+          "description": "This is the Zabbix monitoring template for PostgreSQL Database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-10-31T12:22:40Z",
+            "owner": "pg-monz",
+            "repo": "pg_monz",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyora",
+          "description": "Python script to monitor Oracle Databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-03T14:29:28Z",
+            "owner": "danilochilene",
+            "repo": "Pyora",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZabbixDBA",
+          "description": "Fast, flexible, and continuously developing plugin to monitor your RDBMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2020-04-27T09:34:00Z",
+            "owner": "netrusov",
+            "repo": "ZabbixDBA",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Zabbix"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQLancer",
+          "description": "Automatically test DBMS in order to find logic bugs in their implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T15:14:33Z",
+            "owner": "sqlancer",
+            "repo": "sqlancer",
+            "stars": 1744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgTAP",
+          "description": "Unit Testing for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2026-08-02T20:18:07Z",
+            "owner": "theory",
+            "repo": "pgtap",
+            "stars": 1162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RegreSQL",
+          "description": "Regression Testing your SQL queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-23T11:28:37Z",
+            "owner": "dimitri",
+            "repo": "regresql",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DbFit",
+          "description": "A database testing framework that supports easy test-driven development of your database code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-08T07:49:44Z",
+            "owner": "dbfit",
+            "repo": "dbfit",
+            "stars": 243
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vitess",
+          "description": "Database clustering system for horizontal scaling of MySQL through generalized sharding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:24:36Z",
+            "owner": "vitessio",
+            "repo": "vitess",
+            "stars": 21220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShardingSphere",
+          "description": "Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T02:42:19Z",
+            "owner": "apache",
+            "repo": "shardingsphere",
+            "stars": 20778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Citus",
+          "description": "PostgreSQL extension that distributes your data and your queries across multiple nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:00:53Z",
+            "owner": "citusdata",
+            "repo": "citus",
+            "stars": 12685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "patroni",
+          "description": "A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:21:15Z",
+            "owner": "patroni",
+            "repo": "patroni",
+            "stars": 8654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stolon",
+          "description": "Cloud native PostgreSQL manager for PostgreSQL high availability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-08T16:32:33Z",
+            "owner": "sorintlab",
+            "repo": "stolon",
+            "stars": 4824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autobase",
+          "description": "Open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:19:34Z",
+            "owner": "autobase-tech",
+            "repo": "autobase",
+            "stars": 4332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_auto_failover",
+          "description": "PostgreSQL extension and service for automated failover and high-availability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:12:29Z",
+            "owner": "hapostgres",
+            "repo": "pg_auto_failover",
+            "stars": 1373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgslice",
+          "description": "PostgreSQL partitioning as easy as pie.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-29T04:56:01Z",
+            "owner": "ankane",
+            "repo": "pgslice",
+            "stars": 1244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Percona XtraDB Cluster",
+          "description": "A High Scalability Solution for MySQL Clustering and High Availability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T03:38:11Z",
+            "owner": "percona",
+            "repo": "percona-xtradb-cluster",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgreSQL Automatic Failover",
+          "description": "High-Availibility for PostgreSQL, based on industry references Pacemaker and Corosync.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-06-13T10:03:18Z",
+            "owner": "ClusterLabs",
+            "repo": "PAF",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pglookout",
+          "description": "PostgreSQL replication monitoring and failover daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T14:04:45Z",
+            "owner": "Aiven-Open",
+            "repo": "pglookout",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "HA/Failover/Sharding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PostgreSQL operator",
+          "description": "The PostgreSQL Operator enables highly-available PostgreSQL clusters on Kubernetes (Kubernetes) powered by Patroni.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:25:46Z",
+            "owner": "zalando",
+            "repo": "postgres-operator",
+            "stars": 5222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spilo",
+          "description": "HA PostgreSQL Clusters with Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T09:57:47Z",
+            "owner": "zalando",
+            "repo": "spilo",
+            "stars": 1854
+          }
+        }
+      ],
+      "title": "Kubernetes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MySQLTuner-perl",
+          "description": "Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-08-12T14:55:24Z",
+            "owner": "major",
+            "repo": "MySQLTuner-perl",
+            "stars": 9476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postgresqltuner.pl",
+          "description": "Simple script to analyse your PostgreSQL database configuration, and give tuning advice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-01-08T22:51:46Z",
+            "owner": "jfcoz",
+            "repo": "postgresqltuner",
+            "stars": 2700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgtune",
+          "description": "PostgreSQL configuration wizard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-17T05:31:55Z",
+            "owner": "gregs1104",
+            "repo": "pgtune",
+            "stars": 1087
+          }
+        }
+      ],
+      "title": "Configuration Tuning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Postgres.app",
+          "description": "Full-featured PostgreSQL installation packaged as a standard Mac app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-13T03:16:30Z",
+            "owner": "PostgresApp",
+            "repo": "PostgresApp",
+            "stars": 7764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pigsty",
+          "description": "Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T01:12:23Z",
+            "owner": "pgsty",
+            "repo": "pigsty",
+            "stars": 5522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbatools",
+          "description": "PowerShell module that you may think of like a command-line SQL Server Management Studio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-12T08:55:12Z",
+            "owner": "dataplat",
+            "repo": "dbatools",
+            "stars": 2823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DBdeployer",
+          "description": "Tool that deploys MySQL database servers easily.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-04-07T17:59:03Z",
+            "owner": "datacharmer",
+            "repo": "dbdeployer",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elephant Shed",
+          "description": "Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-03T14:47:02Z",
+            "owner": "credativ",
+            "repo": "elephant-shed",
+            "stars": 230
+          }
+        }
+      ],
+      "title": "Distributions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Acra",
+          "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (\"transparent\") encryption. SQL, NoSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-23T00:16:58Z",
+            "owner": "cossacklabs",
+            "repo": "acra",
+            "stars": 1491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Databunker",
+          "description": "Special GDPR compliant secure vault for customer records built on top of regular DB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T09:36:53Z",
+            "owner": "securitybunker",
+            "repo": "databunker",
+            "stars": 1481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inspektor",
+          "description": "Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-07-15T05:32:30Z",
+            "owner": "inspektor-dev",
+            "repo": "inspektor",
+            "stars": 285
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SQL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQLFluff",
+          "description": "Dialect-flexible and configurable SQL linter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:55:42Z",
+            "owner": "sqlfluff",
+            "repo": "sqlfluff",
+            "stars": 9851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLCheck",
+          "description": "Automatically detects common SQL anti-patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-21T13:30:05Z",
+            "owner": "jarulraj",
+            "repo": "sqlcheck",
+            "stars": 2520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLLineage",
+          "description": "SQL Lineage Analysis Tool powered by Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T23:24:01Z",
+            "owner": "reata",
+            "repo": "sqllineage",
+            "stars": 1675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TSQLLint",
+          "description": "A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-25T01:07:13Z",
+            "owner": "tsqllint",
+            "repo": "tsqllint",
+            "stars": 230
+          }
+        }
+      ],
+      "title": "Analyzers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQL Formatter",
+          "description": "JavaScript library for pretty-printing SQL queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T12:42:18Z",
+            "owner": "sql-formatter-org",
+            "repo": "sql-formatter",
+            "stars": 2886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgFormatter",
+          "description": "A PostgreSQL SQL syntax beautifier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2026-07-15T09:17:41Z",
+            "owner": "darold",
+            "repo": "pgFormatter",
+            "stars": 1959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeBuff",
+          "description": "Language-agnostic pretty-printing through machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-12T01:41:03Z",
+            "owner": "antlr",
+            "repo": "codebuff",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSQLFormatter",
+          "description": "Open Source Java SQL Formatter for many RDBMS based on JSqlParser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-31T05:13:49Z",
+            "owner": "manticore-projects",
+            "repo": "jsqlformatter",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Formatters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQLGlot",
+          "description": "Pure Python SQL parser, transpiler, and builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:31:02Z",
+            "owner": "tobymao",
+            "repo": "sqlglot",
+            "stars": 9524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jOOQ",
+          "description": "Parses SQL, translates it to other dialects, and allows for expression tree transformations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T09:03:05Z",
+            "owner": "jOOQ",
+            "repo": "jOOQ",
+            "stars": 6769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSqlParser",
+          "description": "Parses an SQL statement and translate it into a hierarchy of Java classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T20:35:58Z",
+            "owner": "JSQLParser",
+            "repo": "JSqlParser",
+            "stars": 5958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlparse",
+          "description": "Non-validating SQL parser for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T05:41:57Z",
+            "owner": "andialbrecht",
+            "repo": "sqlparse",
+            "stars": 4011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libpg_query",
+          "description": "C library for accessing the PostgreSQL parser outside of the server environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-24T20:16:41Z",
+            "owner": "pganalyze",
+            "repo": "libpg_query",
+            "stars": 1477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "More SQL Parsing!",
+          "description": "Parse SQL into JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-28T03:53:24Z",
+            "owner": "klahnakoski",
+            "repo": "mo-sql-parsing",
+            "stars": 294
+          }
+        }
+      ],
+      "title": "Parsers"
+    },
+    {
+      "description": "Run SQL queries against anything",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "osquery",
+          "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:37:58Z",
+            "owner": "osquery",
+            "repo": "osquery",
+            "stars": 23457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trino",
+          "description": "Distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T02:48:48Z",
+            "owner": "trinodb",
+            "repo": "trino",
+            "stars": 13135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextQL",
+          "description": "Execute SQL against structured text like CSV or TSV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-22T22:51:40Z",
+            "owner": "dinedal",
+            "repo": "textql",
+            "stars": 9106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steampipe",
+          "description": "Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T14:03:53Z",
+            "owner": "turbot",
+            "repo": "steampipe",
+            "stars": 7909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudQuery",
+          "description": "Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:22:21Z",
+            "owner": "cloudquery",
+            "repo": "cloudquery",
+            "stars": 6480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OctoSQL",
+          "description": "Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-26T15:16:53Z",
+            "owner": "cube2222",
+            "repo": "octosql",
+            "stars": 5264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dsq",
+          "description": "Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-30T14:49:59Z",
+            "owner": "multiprocessio",
+            "repo": "dsq",
+            "stars": 3867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sq",
+          "description": "Command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T07:30:57Z",
+            "owner": "neilotoole",
+            "repo": "sq",
+            "stars": 2549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trdsql",
+          "description": "CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-17T00:29:04Z",
+            "owner": "noborus",
+            "repo": "trdsql",
+            "stars": 2169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csvq",
+          "description": "SQL-like query language for CSV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-25T10:25:08Z",
+            "owner": "mithrandie",
+            "repo": "csvq",
+            "stars": 1626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAT Calcite plugin",
+          "description": "This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-10T13:48:26Z",
+            "owner": "vlsi",
+            "repo": "mat-calcite-plugin",
+            "stars": 182
+          }
+        }
+      ],
+      "title": "Über SQL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sqls",
+          "description": "SQL Language Server written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-15T06:24:00Z",
+            "owner": "sqls-server",
+            "repo": "sqls",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLLanguageServer",
+          "description": "SQL Language Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-05T07:20:37Z",
+            "owner": "joe-re",
+            "repo": "sql-language-server",
+            "stars": 772
+          }
+        }
+      ],
+      "title": "Language Server Protocol"
+    },
+    {
+      "description": "Learning and puzzles for SQL",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQL Murder Mystery",
+          "description": "Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-14T15:06:31Z",
+            "owner": "NUKnightLab",
+            "repo": "sql-mysteries",
+            "stars": 2163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced SQL Puzzles",
+          "description": "Difficult set-based SQL puzzles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TSQL",
+            "last_commit": "2026-07-21T19:35:23Z",
+            "owner": "smpetersgithub",
+            "repo": "AdvancedSQLPuzzles",
+            "stars": 916
+          }
+        }
+      ],
+      "title": "Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pev2",
+          "description": "A Vue.js component to show a graphical vizualization of a PostgreSQL execution plan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T05:50:09Z",
+            "owner": "dalibo",
+            "repo": "pev2",
+            "stars": 3557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_flame",
+          "description": "A flamegraph generator for PostgreSQL output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-01-13T23:28:06Z",
+            "owner": "mgartner",
+            "repo": "pg_flame",
+            "stars": 1619
+          }
+        }
+      ],
+      "title": "Plan"
+    },
+    {
+      "description": "Useful SQL-scripts for various purposes",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pgx_scripts",
+          "description": "A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-08-10T22:34:00Z",
+            "owner": "pgexperts",
+            "repo": "pgx_scripts",
+            "stars": 1469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postgres_dba",
+          "description": "The missing set of useful tools for PostgreSQL DBAs and all engineers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2026-04-22T07:04:58Z",
+            "owner": "NikolayS",
+            "repo": "postgres_dba",
+            "stars": 1283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg-utils",
+          "description": "Useful PostgreSQL utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-29T11:01:18Z",
+            "owner": "dataegret",
+            "repo": "pg-utils",
+            "stars": 1218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TPT",
+          "description": "These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLSQL",
+            "last_commit": "2026-06-02T22:44:38Z",
+            "owner": "tanelpoder",
+            "repo": "tpt-oracle",
+            "stars": 729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgsql-bloat-estimation",
+          "description": "Queries to mesure statistical bloat in indexes and tables for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-23T09:08:20Z",
+            "owner": "ioguix",
+            "repo": "pgsql-bloat-estimation",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DBA MultiTool",
+          "description": "T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2026-07-21T12:02:43Z",
+            "owner": "lowlydba",
+            "repo": "dba-multitool",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "Scripts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DataHub",
+          "description": "The Metadata Platform for the Modern Data Stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:43:34Z",
+            "owner": "datahub-project",
+            "repo": "datahub",
+            "stars": 12522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amundsen",
+          "description": "Metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T01:49:33Z",
+            "owner": "amundsen-io",
+            "repo": "amundsen",
+            "stars": 4781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marquez",
+          "description": "Collect, aggregate, and visualize a data ecosystem's metadata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T22:59:23Z",
+            "owner": "MarquezProject",
+            "repo": "marquez",
+            "stars": 2259
+          }
+        }
+      ],
+      "title": "Catalog"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Faker",
+          "description": "Generate massive amounts of fake data in the browser and Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:15:57Z",
+            "owner": "faker-js",
+            "repo": "faker",
+            "stars": 15448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greenmask",
+          "description": "Database anonymization and synthetic data generation tool for MySQL and PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T16:06:19Z",
+            "owner": "GreenmaskIO",
+            "repo": "greenmask",
+            "stars": 1745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noisia",
+          "description": "Harmful workload generator for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-14T16:10:06Z",
+            "owner": "lesovsky",
+            "repo": "noisia",
+            "stars": 796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benerator",
+          "description": "Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T15:53:18Z",
+            "owner": "rapiddweller",
+            "repo": "rapiddweller-benerator-ce",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "myanon",
+          "description": "Streaming anonymizer for MySQL dump files. Reads mysqldump from stdin, writes anonymized version to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-24T18:57:43Z",
+            "owner": "ppomes",
+            "repo": "myanon",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quick-seed",
+          "description": "Database-agnostic seeding tool for generating realistic test data with support for PostgreSQL, MySQL, SQLite, Prisma, and Drizzle ORM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-27T08:12:36Z",
+            "owner": "miit-daga",
+            "repo": "quick-seed",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Generation/Masking/Subsetting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YData Profiling",
+          "description": "A general-purpose open-source data profiler for high-level analysis of a dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T23:26:39Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "fg-data-profiling",
+            "stars": 13669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Profiler",
+          "description": "The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T21:32:39Z",
+            "owner": "capitalone",
+            "repo": "DataProfiler",
+            "stars": 1573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Desbordante",
+          "description": "An open-source data profiler specifically focused on discovery and validation of complex patterns in data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T19:55:53Z",
+            "owner": "Desbordante",
+            "repo": "desbordante-core",
+            "stars": 494
+          }
+        }
+      ],
+      "title": "Data Profilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Litestream",
+          "description": "Streaming replication for SQLite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T13:07:31Z",
+            "owner": "benbjohnson",
+            "repo": "litestream",
+            "stars": 14240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgsync",
+          "description": "Sync PostgreSQL data between databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-26T15:11:44Z",
+            "owner": "ankane",
+            "repo": "pgsync",
+            "stars": 3467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "repmgr",
+          "description": "The Most Popular Replication Manager for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-28T16:04:11Z",
+            "owner": "EnterpriseDB",
+            "repo": "repmgr",
+            "stars": 1707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtle",
+          "description": "Distributed Data Transfer Service for MySQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-12T18:16:11Z",
+            "owner": "actiontech",
+            "repo": "dtle",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_chameleon",
+          "description": "MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T19:06:08Z",
+            "owner": "the4thdoctor",
+            "repo": "pg_chameleon",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PGDeltaStream",
+          "description": "A Golang webserver to stream PostgreSQL changes atleast-once over websockets, using PostgreSQL logical decoding feature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-06-13T11:00:52Z",
+            "owner": "hasura",
+            "repo": "pgdeltastream",
+            "stars": 257
+          }
+        }
+      ],
+      "title": "Replication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MindsDB",
+          "description": "In-database Machine Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-12T06:21:30Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLFlow",
+          "description": "Brings SQL and AI together.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-18T08:08:51Z",
+            "owner": "sql-machine-learning",
+            "repo": "sqlflow",
+            "stars": 5188
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:23.613Z",
+    "original_repository": "mgramin/awesome-db-tools",
+    "original_repository_sha": "57ef4ecf12d86de99fc942a1ab964cc22240c5f4",
+    "enhanced_repository": "enhansome/enhansome-db-tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome Database Tools with stars"
+  }
+}
