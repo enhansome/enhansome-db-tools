@@ -60,10 +60,10 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ## IDE
 
-* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,436 | 🐛 3,319 | 🌐 Java | 📅 2026-08-12 - Free universal database manager and SQL client.
-* [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) ⭐ 6,209 | 🐛 314 | 🌐 Pascal | 📅 2026-08-07 - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
+* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,453 | 🐛 3,315 | 🌐 Java | 📅 2026-08-14 - Free universal database manager and SQL client.
+* [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) ⭐ 6,208 | 🐛 314 | 🌐 Pascal | 📅 2026-08-07 - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
 * [DataStation](https://github.com/multiprocessio/datastation) ⭐ 2,957 | 🐛 38 | 🌐 TypeScript | 📅 2023-11-10 - Easily query, script, and visualize data from every database, file, and API.
-* [Querybook](https://github.com/pinterest/querybook) ⭐ 2,274 | 🐛 237 | 🌐 TypeScript | 📅 2026-08-11 - Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
+* [Querybook](https://github.com/pinterest/querybook) ⭐ 2,274 | 🐛 236 | 🌐 TypeScript | 📅 2026-08-11 - Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 * [Slashbase](https://github.com/slashbaseide/slashbase) ⚠️ Archived - The open-source collaborative IDE for your databases. Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser.
 * [dbKoda](https://github.com/SouthbankSoftware/dbkoda) ⚠️ Archived - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 * [Kangaroo](https://github.com/dbkangaroo/kangaroo) ⭐ 514 | 🐛 16 | 🌐 TSQL | 📅 2026-07-31 - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
@@ -97,20 +97,20 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ## GUI
 
-* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,623 | 🐛 160 | 🌐 JavaScript | 📅 2026-08-10 - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
-* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,365 | 🐛 1,135 | 🌐 TypeScript | 📅 2026-08-13 - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
+* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,630 | 🐛 158 | 🌐 JavaScript | 📅 2026-08-13 - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
+* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,407 | 🐛 1,136 | 🌐 TypeScript | 📅 2026-08-14 - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 * [Pgweb](https://github.com/sosedoff/pgweb) ⭐ 9,476 | 🐛 55 | 🌐 Go | 📅 2026-07-26 - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 * [Robo 3T](https://github.com/Studio3T/robomongo) ⭐ 9,366 | 🐛 725 | 🌐 C++ | 📅 2022-09-22 - Shell-centric cross-platform MongoDB management tool.
 * [Sequel Pro](https://github.com/sequelpro/sequelpro) ⭐ 9,197 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - Fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
-* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) ⭐ 7,911 | 🐛 916 | 🌐 PHP | 📅 2026-08-10 - A web interface for MySQL and MariaDB.
-* [Adminer](https://github.com/vrana/adminer) ⭐ 7,742 | 🐛 2 | 🌐 PHP | 📅 2026-08-12 - Database management in a single PHP file.
+* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) ⭐ 7,910 | 🐛 915 | 🌐 PHP | 📅 2026-08-13 - A web interface for MySQL and MariaDB.
+* [Adminer](https://github.com/vrana/adminer) ⭐ 7,755 | 🐛 5 | 🌐 PHP | 📅 2026-08-12 - Database management in a single PHP file.
 * [Azure Data Studio](https://github.com/microsoft/azuredatastudio) ⚠️ Archived - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-* [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,502 | 🐛 184 | 🌐 Objective-C | 📅 2026-08-13 - MySQL/MariaDB database management for macOS.
-* [DbGate](https://github.com/dbgate/dbgate) ⭐ 7,202 | 🐛 443 | 🌐 JavaScript | 📅 2026-08-12 - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
-* [Clidey WhoDB](https://github.com/clidey/whodb) ⭐ 5,005 | 🐛 21 | 🌐 Go | 📅 2026-08-12 - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
-* [TablePlus](https://github.com/TablePlus/TablePlus) ⭐ 3,812 | 🐛 1,428 | 📅 2026-03-02 - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
-* [OmniDB](https://github.com/OmniDB/OmniDB) ⭐ 3,288 | 🐛 330 | 🌐 JavaScript | 📅 2023-02-01 - Web tool for database management.
-* [Jailer](https://github.com/Wisser/Jailer) ⭐ 3,194 | 🐛 0 | 🌐 Java | 📅 2026-08-06 - Database Subsetting and Relational Data Browsing Tool/Client.
+* [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,502 | 🐛 185 | 🌐 Objective-C | 📅 2026-08-14 - MySQL/MariaDB database management for macOS.
+* [DbGate](https://github.com/dbgate/dbgate) ⭐ 7,201 | 🐛 446 | 🌐 JavaScript | 📅 2026-08-13 - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+* [Clidey WhoDB](https://github.com/clidey/whodb) ⭐ 5,007 | 🐛 20 | 🌐 Go | 📅 2026-08-14 - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
+* [TablePlus](https://github.com/TablePlus/TablePlus) ⭐ 3,813 | 🐛 1,428 | 📅 2026-03-02 - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
+* [OmniDB](https://github.com/OmniDB/OmniDB) ⭐ 3,287 | 🐛 330 | 🌐 JavaScript | 📅 2023-02-01 - Web tool for database management.
+* [Jailer](https://github.com/Wisser/Jailer) ⭐ 3,195 | 🐛 0 | 🌐 Java | 📅 2026-08-06 - Database Subsetting and Relational Data Browsing Tool/Client.
 * [Antares SQL](https://github.com/antares-sql/antares) ⭐ 2,643 | 🐛 149 | 🌐 Vue | 📅 2025-10-14 - A modern, fast and productivity driven SQL client with a focus in UX. Available for Mac, Linux and Windows.
 * [Tabix](https://github.com/tabixio/tabix) ⭐ 2,299 | 🐛 46 | 🌐 TypeScript | 📅 2023-01-15 - SQL Editor & Open source simple business intelligence for Clickhouse.
 * [sqlite-tui](https://github.com/mathaou/sqlite-tui) ⭐ 1,817 | 🐛 6 | 🌐 Go | 📅 2022-06-11 - A TUI for viewing SQLite databases, written in Go.
@@ -136,10 +136,10 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ## CLI
 
 * [usql](https://github.com/xo/usql) ⭐ 10,068 | 🐛 119 | 🌐 Go | 📅 2026-06-19 - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
-* [pg\_activity](https://github.com/julmon/pg_activity) ⭐ 3,033 | 🐛 15 | 🌐 Python | 📅 2026-08-01 - Top-like application for PostgreSQL server activity monitoring.
+* [pg\_activity](https://github.com/julmon/pg_activity) ⭐ 3,034 | 🐛 15 | 🌐 Python | 📅 2026-08-01 - Top-like application for PostgreSQL server activity monitoring.
 * [iredis](https://github.com/laixintao/iredis) ⭐ 2,740 | 🐛 50 | 🌐 Python | 📅 2026-07-27 - A Cli for Redis with AutoCompletion and Syntax Highlighting.
 * [pspg](https://github.com/okbob/pspg) ⭐ 2,728 | 🐛 0 | 🌐 C | 📅 2026-06-28 - PostgreSQL Pager.
-* [sqlite-utils](https://github.com/simonw/sqlite-utils) ⭐ 2,148 | 🐛 117 | 🌐 Python | 📅 2026-08-12 - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
+* [sqlite-utils](https://github.com/simonw/sqlite-utils) ⭐ 2,148 | 🐛 103 | 🌐 Python | 📅 2026-08-14 - CLI tools for manipulating SQLite database files - inserting data, running queries, creating indexes, configuring full-text search and more.
 * [ipython-sql](https://github.com/catherinedevlin/ipython-sql) ⭐ 1,798 | 🐛 114 | 🌐 Python | 📅 2024-07-12 - Connect to a database for issue SQL commands within IPython or IPython Notebook.
 * [pgcenter](https://github.com/lesovsky/pgcenter) ⭐ 1,624 | 🐛 0 | 🌐 Go | 📅 2026-08-06 - Top-like admin tool for PostgreSQL.
 * [SQLLine](https://github.com/julianhyde/sqlline) ⭐ 658 | 🐛 63 | 🌐 Java | 📅 2023-07-07 - Command-line shell for issuing SQL to relational databases via JDBC.
@@ -150,7 +150,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### dbcli
 
 * [pgcli](https://github.com/dbcli/pgcli) ⭐ 13,349 | 🐛 36 | 🌐 Python | 📅 2026-08-03 - PostgreSQL CLI with autocompletion and syntax highlighting.
-* [mycli](https://github.com/dbcli/mycli) ⭐ 11,961 | 🐛 4 | 🌐 Python | 📅 2026-08-12 - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+* [mycli](https://github.com/dbcli/mycli) ⭐ 11,963 | 🐛 4 | 🌐 Python | 📅 2026-08-12 - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [litecli](https://github.com/dbcli/litecli) ⭐ 3,289 | 🐛 44 | 🌐 Python | 📅 2026-06-18 - CLI for SQLite Databases with auto-completion and syntax highlighting.
 * [mssql-cli](https://github.com/dbcli/mssql-cli) ⭐ 1,412 | 🐛 162 | 🌐 Python | 📅 2024-02-26 - A command-line client for SQL Server with auto-completion and syntax highlighting.
 * [athenacli](https://github.com/dbcli/athenacli) ⭐ 228 | 🐛 9 | 🌐 Python | 📅 2026-04-24 - CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
@@ -160,16 +160,16 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ### Changes
 
-* [Bytebase](https://github.com/bytebase/bytebase) ⭐ 14,375 | 🐛 154 | 🌐 Go | 📅 2026-08-13 - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
-* [gh-ost](https://github.com/github/gh-ost) ⭐ 13,516 | 🐛 322 | 🌐 Go | 📅 2026-08-12 - Online schema migration for MySQL.
-* [flyway](https://github.com/flyway/flyway) ⭐ 9,991 | 🐛 250 | 🌐 Java | 📅 2026-08-06 - Database migration tool.
-* [Atlas](https://github.com/ariga/atlas) ⭐ 8,634 | 🐛 266 | 🌐 Go | 📅 2026-08-02 - Inspect and Apply changes to your database schema.
-* [liquibase](https://github.com/liquibase/liquibase) ⭐ 5,583 | 🐛 246 | 🌐 Java | 📅 2026-08-12 - Database-independent library for tracking, managing and applying database schema changes.
+* [Bytebase](https://github.com/bytebase/bytebase) ⭐ 14,377 | 🐛 153 | 🌐 Go | 📅 2026-08-14 - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+* [gh-ost](https://github.com/github/gh-ost) ⭐ 13,519 | 🐛 323 | 🌐 Go | 📅 2026-08-13 - Online schema migration for MySQL.
+* [flyway](https://github.com/flyway/flyway) ⭐ 9,993 | 🐛 250 | 🌐 Java | 📅 2026-08-13 - Database migration tool.
+* [Atlas](https://github.com/ariga/atlas) ⭐ 8,639 | 🐛 266 | 🌐 Go | 📅 2026-08-02 - Inspect and Apply changes to your database schema.
+* [liquibase](https://github.com/liquibase/liquibase) ⭐ 5,587 | 🐛 243 | 🌐 Java | 📅 2026-08-14 - Database-independent library for tracking, managing and applying database schema changes.
 * [Sqitch](https://github.com/sqitchers/sqitch) ⭐ 3,151 | 🐛 81 | 🌐 Perl | 📅 2026-08-02 - Sensible database-native change management for framework-free development and dependable deployment.
 * [sqldef](https://github.com/k0kubun/sqldef) ⭐ 3,139 | 🐛 13 | 🌐 Go | 📅 2026-08-09 - Idempotent schema management for MySQL, PostgreSQL, and more.
 * [migra](https://github.com/djrobstep/migra) ⭐ 3,051 | 🐛 87 | 🌐 Python | 📅 2025-08-25 - Like diff but for PostgreSQL schemas.
 * [Reshape](https://github.com/fabianlindfors/reshape) ⭐ 1,849 | 🐛 7 | 🌐 Rust | 📅 2026-08-04 - An easy-to-use, zero-downtime schema migration tool for Postgres.
-* [node-pg-migrate](https://github.com/salsita/node-pg-migrate) ⭐ 1,473 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-12 - Node.js database migration management built exclusively for PostgreSQL. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
+* [node-pg-migrate](https://github.com/salsita/node-pg-migrate) ⭐ 1,474 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-12 - Node.js database migration management built exclusively for PostgreSQL. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
 * [Skeema](https://github.com/skeema/skeema) ⭐ 1,375 | 🐛 15 | 🌐 Go | 📅 2026-08-12 - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
 * [SchemaHero](https://github.com/schemahero/schemahero) ⭐ 1,146 | 🐛 154 | 🌐 Go | 📅 2026-08-12 - A Kubernetes operator for declarative database schema management (gitops for database schemas).
 * [Prisma Migrate](https://github.com/prisma/migrate) ⚠️ Archived - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
@@ -185,10 +185,10 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ### Diagrams
 
-* [DrawDB](https://github.com/drawdb-io/drawdb) ⭐ 38,956 | 🐛 224 | 🌐 JavaScript | 📅 2026-08-12 - Free, simple, and intuitive online database design tool and SQL generator.
-* [ChartDB](https://github.com/chartdb/chartdb) ⭐ 22,723 | 🐛 168 | 🌐 TypeScript | 📅 2026-08-11 - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
-* [Liam ERD](https://github.com/liam-hq/liam) ⭐ 4,970 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-11 - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
-* [Azimutt](https://github.com/azimuttapp/azimutt) ⭐ 2,161 | 🐛 83 | 🌐 Elm | 📅 2026-06-20 - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
+* [DrawDB](https://github.com/drawdb-io/drawdb) ⭐ 39,063 | 🐛 229 | 🌐 JavaScript | 📅 2026-08-13 - Free, simple, and intuitive online database design tool and SQL generator.
+* [ChartDB](https://github.com/chartdb/chartdb) ⭐ 22,728 | 🐛 168 | 🌐 TypeScript | 📅 2026-08-11 - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
+* [Liam ERD](https://github.com/liam-hq/liam) ⭐ 4,971 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-14 - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
+* [Azimutt](https://github.com/azimuttapp/azimutt) ⭐ 2,163 | 🐛 83 | 🌐 Elm | 📅 2026-06-20 - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) ⭐ 1,424 | 🐛 11 | 🌐 Python | 📅 2026-05-05 - Entity Relation Diagrams generation tool.
 * [DrawSQL](https://drawsql.app) - Online database schema diagram editor with SQL import, AI generation, and real-time team collaboration.
 * [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
@@ -196,16 +196,16 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ### Documentations
 
-* [tbls](https://github.com/k1LoW/tbls) ⭐ 4,308 | 🐛 60 | 🌐 Go | 📅 2026-08-04 - CI-Friendly tool for document a database, written in Go.
-* [Schema Spy](https://github.com/schemaspy/schemaspy) ⭐ 3,702 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - Generating your database to HTML documentation, including Entity Relationship diagrams.
-* [DBML](https://github.com/holistics/dbml) ⭐ 3,676 | 🐛 94 | 🌐 JavaScript | 📅 2026-08-13 - Database Markup Language, designed to define and document database structures.
+* [tbls](https://github.com/k1LoW/tbls) ⭐ 4,309 | 🐛 60 | 🌐 Go | 📅 2026-08-04 - CI-Friendly tool for document a database, written in Go.
+* [Schema Spy](https://github.com/schemaspy/schemaspy) ⭐ 3,705 | 🐛 302 | 🌐 HTML | 📅 2026-03-05 - Generating your database to HTML documentation, including Entity Relationship diagrams.
+* [DBML](https://github.com/holistics/dbml) ⭐ 3,677 | 🐛 95 | 🌐 JavaScript | 📅 2026-08-13 - Database Markup Language, designed to define and document database structures.
 * [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) ⭐ 1,823 | 🐛 0 | 🌐 Java | 📅 2026-08-13 - A free database schema discovery and comprehension tool.
 * [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
 
 ### Design
 
 * [pgmodeler](https://github.com/pgmodeler/pgmodeler) ⭐ 3,583 | 🐛 282 | 🌐 C++ | 📅 2026-05-22 - Data modeling tool designed for PostgreSQL.
-* [WWW SQL Designer](https://github.com/ondras/wwwsqldesigner) ⭐ 2,930 | 🐛 90 | 🌐 JavaScript | 📅 2026-03-20 - Online SQL diagramming tool.
+* [WWW SQL Designer](https://github.com/ondras/wwwsqldesigner) ⭐ 2,929 | 🐛 90 | 🌐 JavaScript | 📅 2026-03-20 - Online SQL diagramming tool.
 * [Database Design](https://github.com/alextanhongpin/database-design) ⭐ 500 | 🐛 0 | 🌐 Go | 📅 2025-08-26 - Useful tips for designing robust database schema.
 * [DBDiagram](https://dbdiagram.io) - A free, simple tool to draw ER diagrams by just writing code.
 * [DbSchema](https://dbschema.com/) - Universal database designer for out-of-the-box schema management, schema documentation, design in a team, and deployment on multiple databases. DbSchema features tools for writing and executing queries, exploring the data, generating data, and building reports.
@@ -222,18 +222,18 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 Building API for your Data
 
-* [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,081 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-11 - Blazing fast, instant realtime GraphQL APIs on PostgreSQL with fine grained access control, also trigger webhooks on database events.
-* [PostgREST](https://github.com/PostgREST/postgrest) ⭐ 27,595 | 🐛 387 | 🌐 Haskell | 📅 2026-08-12 - REST API for any PostgreSQL database.
+* [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) ⭐ 32,082 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-11 - Blazing fast, instant realtime GraphQL APIs on PostgreSQL with fine grained access control, also trigger webhooks on database events.
+* [PostgREST](https://github.com/PostgREST/postgrest) ⭐ 27,596 | 🐛 388 | 🌐 Haskell | 📅 2026-08-13 - REST API for any PostgreSQL database.
 * [Prisma](https://github.com/prismagraphql/prisma) ⚠️ Archived - Turns your database into a realtime GraphQL API.
-* [PostGraphile](https://github.com/graphile/postgraphile) ⭐ 12,929 | 🐛 161 | 🌐 TypeScript | 📅 2026-08-11 - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.
-* [Datasette](https://github.com/simonw/datasette) ⭐ 11,381 | 🐛 707 | 🌐 Python | 📅 2026-08-10 - A tool for exploring and publishing data.
-* [prest](https://github.com/prest/prest) ⭐ 4,609 | 🐛 151 | 🌐 Go | 📅 2026-08-11 - Is a way to serve a RESTful API from any databases written in Go.
-* [Remult](https://github.com/remult/remult) ⭐ 3,206 | 🐛 118 | 🌐 TypeScript | 📅 2026-08-02 - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+* [PostGraphile](https://github.com/graphile/postgraphile) ⭐ 12,930 | 🐛 162 | 🌐 TypeScript | 📅 2026-08-11 - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.
+* [Datasette](https://github.com/simonw/datasette) ⭐ 11,381 | 🐛 707 | 🌐 Python | 📅 2026-08-14 - A tool for exploring and publishing data.
+* [prest](https://github.com/prest/prest) ⭐ 4,611 | 🐛 151 | 🌐 Go | 📅 2026-08-11 - Is a way to serve a RESTful API from any databases written in Go.
+* [Remult](https://github.com/remult/remult) ⭐ 3,207 | 🐛 118 | 🌐 TypeScript | 📅 2026-08-02 - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 * [sandman2](https://github.com/jeffknupp/sandman2) ⭐ 2,041 | 🐛 45 | 🌐 Python | 📅 2026-08-10 - Automatically generate a RESTful API service for your legacy database.
-* [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) ⭐ 1,777 | 🐛 65 | 🌐 Shell | 📅 2026-08-12 - A open source REST API backend for mobile, web, and IoT applications.
+* [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) ⭐ 1,778 | 🐛 65 | 🌐 Shell | 📅 2026-08-13 - A open source REST API backend for mobile, web, and IoT applications.
 * [soul](https://github.com/thevahidal/soul) ⭐ 1,682 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-10 - Automatic SQLite RESTful and realtime API server.
 * [VulcanSQL](https://github.com/Canner/vulcan-sql) ⭐ 792 | 🐛 36 | 🌐 TypeScript | 📅 2024-07-01 - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
-* [Graphweaver](https://github.com/exogee-technology/graphweaver) ⭐ 552 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-09 - Turn multiple data sources into a single GraphQL API.
+* [Graphweaver](https://github.com/exogee-technology/graphweaver) ⭐ 553 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-14 - Turn multiple data sources into a single GraphQL API.
 * [restSQL](https://github.com/restsql/restsql) ⭐ 148 | 🐛 26 | 🌐 JavaScript | 📅 2019-01-12 - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 * [resquel](https://github.com/formio/resquel) ⭐ 127 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-06 - Easily convert your SQL database into a REST API.
 * [JdbcREST](https://github.com/synthesized-io/jdbcrest/) ⭐ 11 | 🐛 1 | 🌐 Java | 📅 2026-08-11 - REST API for any JDBC-backed database, a PostgREST clone written in Java.
@@ -243,20 +243,20 @@ Building API for your Data
 
 Low-code and no-code platforms for application building
 
-* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,657 | 🐛 4,463 | 🌐 TypeScript | 📅 2026-08-13 - Powerful open source low code framework to build internal applications really quickly.
-* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 38,595 | 🐛 1,118 | 🌐 JavaScript | 📅 2026-08-12 - Open-source low-code platform to build internal tools.
-* [Budibase](https://github.com/Budibase/budibase) ⭐ 28,199 | 🐛 296 | 🌐 TypeScript | 📅 2026-08-12 - Low-code platform for creating internal apps in minutes.
-* [ILLA Cloud](https://github.com/illacloud/illa-builder) ⭐ 12,309 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27 - Low-code internal tool building platform.
-* [Nhost](https://github.com/nhost/nhost) ⭐ 9,277 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-12 - The Open Source Firebase Alternative with GraphQL.
-* [SQLPage](https://github.com/sqlpage/SQLPage) ⭐ 2,537 | 🐛 133 | 🌐 Rust | 📅 2026-08-12 - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
-* [Saltcorn](https://github.com/saltcorn/saltcorn) ⭐ 2,052 | 🐛 730 | 🌐 JavaScript | 📅 2026-08-10 - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
+* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,670 | 🐛 4,473 | 🌐 TypeScript | 📅 2026-08-14 - Powerful open source low code framework to build internal applications really quickly.
+* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 38,707 | 🐛 1,118 | 🌐 JavaScript | 📅 2026-08-14 - Open-source low-code platform to build internal tools.
+* [Budibase](https://github.com/Budibase/budibase) ⭐ 28,201 | 🐛 296 | 🌐 TypeScript | 📅 2026-08-13 - Low-code platform for creating internal apps in minutes.
+* [ILLA Cloud](https://github.com/illacloud/illa-builder) ⭐ 12,308 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27 - Low-code internal tool building platform.
+* [Nhost](https://github.com/nhost/nhost) ⭐ 9,278 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-14 - The Open Source Firebase Alternative with GraphQL.
+* [SQLPage](https://github.com/sqlpage/SQLPage) ⭐ 2,538 | 🐛 136 | 🌐 Rust | 📅 2026-08-13 - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
+* [Saltcorn](https://github.com/saltcorn/saltcorn) ⭐ 2,053 | 🐛 730 | 🌐 JavaScript | 📅 2026-08-10 - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 
 ## Backup
 
-* [Databasus](https://github.com/databasus/databasus) ⭐ 7,902 | 🐛 2 | 🌐 Go | 📅 2026-08-12 - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
-* [pgbackrest](https://github.com/pgbackrest/pgbackrest) ⭐ 4,306 | 🐛 24 | 🌐 C | 📅 2026-08-13 - Reliable PostgreSQL Backup & Restore.
-* [BaRMan](https://github.com/2ndquadrant-it/barman) ⭐ 3,217 | 🐛 43 | 🌐 Python | 📅 2026-08-05 - Backup and Recovery Manager for PostgreSQL.
-* [Portabase](https://github.com/Portabase/portabase) ⭐ 1,641 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-10 - Agent-based platform for PostgreSQL backups and restores with decentralized execution and centralized orchestration.
+* [Databasus](https://github.com/databasus/databasus) ⭐ 7,913 | 🐛 2 | 🌐 Go | 📅 2026-08-13 - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+* [pgbackrest](https://github.com/pgbackrest/pgbackrest) ⭐ 4,308 | 🐛 24 | 🌐 C | 📅 2026-08-13 - Reliable PostgreSQL Backup & Restore.
+* [BaRMan](https://github.com/2ndquadrant-it/barman) ⭐ 3,218 | 🐛 39 | 🌐 Python | 📅 2026-08-13 - Backup and Recovery Manager for PostgreSQL.
+* [Portabase](https://github.com/Portabase/portabase) ⭐ 1,641 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-13 - Agent-based platform for PostgreSQL backups and restores with decentralized execution and centralized orchestration.
 * [pgcopydb](https://github.com/dimitri/pgcopydb) ⭐ 1,544 | 🐛 22 | 🌐 C | 📅 2026-07-03 - Copy a PostgreSQL database to a target PostgreSQL server (pg\_dump | pg\_restore on steroids).
 * [pg\_probackup](https://github.com/postgrespro/pg_probackup) ⭐ 799 | 🐛 188 | 🌐 Python | 📅 2026-07-12 - A backup and recovery manager for PostgreSQL.
 
@@ -268,16 +268,16 @@ Low-code and no-code platforms for application building
 
 ## Monitoring/Statistics/Perfomance
 
-* [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) ⭐ 17,746 | 🐛 403 | 🌐 Go | 📅 2026-08-12 - Provides metrics for your PostgreSQL database.
-* [PgHero](https://github.com/ankane/pghero) ⭐ 8,909 | 🐛 5 | 🌐 Ruby | 📅 2026-08-11 - A performance dashboard for PostgreSQL - health checks, suggested indexes, and more.
+* [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) ⭐ 17,748 | 🐛 386 | 🌐 Go | 📅 2026-08-13 - Provides metrics for your PostgreSQL database.
+* [PgHero](https://github.com/ankane/pghero) ⭐ 8,909 | 🐛 4 | 🌐 Ruby | 📅 2026-08-13 - A performance dashboard for PostgreSQL - health checks, suggested indexes, and more.
 * [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) ⚠️ Archived - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
 * [Promscale](https://github.com/timescale/promscale) ⚠️ Archived - The open-source observability backend for metrics and traces powered by SQL.
 * [pgmetrics](https://github.com/rapidloop/pgmetrics) ⭐ 1,103 | 🐛 15 | 🌐 Go | 📅 2026-07-10 - Collect and display information and stats from a running PostgreSQL server.
-* [Percona Monitoring and Management](https://github.com/percona/pmm) ⭐ 1,083 | 🐛 210 | 🌐 Go | 📅 2026-08-13 - Open source platform for managing and monitoring MySQL and MongoDB performance.
+* [Percona Monitoring and Management](https://github.com/percona/pmm) ⭐ 1,085 | 🐛 211 | 🌐 Go | 📅 2026-08-13 - Open source platform for managing and monitoring MySQL and MongoDB performance.
 * [pgMonitor](https://github.com/CrunchyData/pgmonitor) ⭐ 713 | 🐛 14 | 🌐 PLpgSQL | 📅 2026-04-23 - All-in-one tool to easily create an environment to visualize the health and performance of your PostgreSQL cluster.
 * [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) ⭐ 598 | 🐛 3 | 🌐 Python | 📅 2023-05-29 - Service to extract and provide metrics on your PostgreSQL database.
-* [pganalyze collector](https://github.com/pganalyze/collector) ⭐ 401 | 🐛 33 | 🌐 Go | 📅 2026-08-13 - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-* [ASH Viewer](https://github.com/akardapolov/ASH-Viewer) ⭐ 209 | 🐛 40 | 🌐 Java | 📅 2023-12-04 - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
+* [pganalyze collector](https://github.com/pganalyze/collector) ⭐ 402 | 🐛 33 | 🌐 Go | 📅 2026-08-13 - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+* [ASH Viewer](https://github.com/akardapolov/ASH-Viewer) ⭐ 210 | 🐛 40 | 🌐 Java | 📅 2023-12-04 - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
 * [pgstats](https://github.com/gleu/pgstats) ⭐ 128 | 🐛 2 | 🌐 C | 📅 2026-06-16 - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 * [mssql-monitoring](https://github.com/microsoft/mssql-monitoring) ⚠️ Archived - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
 * [pgbadger](https://github.com/dalibo/pgbadger) ⭐ 26 | 🐛 0 | 🌐 HTML | 📅 2018-09-13 - A fast PostgreSQL Log Analyzer.
@@ -292,7 +292,7 @@ Low-code and no-code platforms for application building
 
 ### Prometheus
 
-* [postgres\_exporter](https://github.com/wrouesnel/postgres_exporter) ⭐ 3,593 | 🐛 256 | 🌐 Go | 📅 2026-08-12 - Prometheus exporter for PostgreSQL server metrics.
+* [postgres\_exporter](https://github.com/wrouesnel/postgres_exporter) ⭐ 3,593 | 🐛 257 | 🌐 Go | 📅 2026-08-12 - Prometheus exporter for PostgreSQL server metrics.
 * [pg\_exporter](https://github.com/Vonng/pg_exporter) ⭐ 359 | 🐛 9 | 🌐 Go | 📅 2026-08-09 - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 * [pgSCV](https://github.com/weaponry/pgscv) ⚠️ Archived - Metrics exporter for PostgreSQL and PostgreSQL-related services.
 
@@ -306,20 +306,20 @@ Low-code and no-code platforms for application building
 
 ## Testing
 
-* [SQLancer](https://github.com/sqlancer/sqlancer) ⭐ 1,744 | 🐛 140 | 🌐 Java | 📅 2026-08-12 - Automatically test DBMS in order to find logic bugs in their implementation.
+* [SQLancer](https://github.com/sqlancer/sqlancer) ⭐ 1,744 | 🐛 141 | 🌐 Java | 📅 2026-08-13 - Automatically test DBMS in order to find logic bugs in their implementation.
 * [pgTAP](https://github.com/theory/pgtap) ⭐ 1,162 | 🐛 55 | 🌐 PLpgSQL | 📅 2026-08-02 - Unit Testing for PostgreSQL.
 * [RegreSQL](https://github.com/dimitri/regresql) ⭐ 358 | 🐛 5 | 🌐 Go | 📅 2026-05-23 - Regression Testing your SQL queries.
 * [DbFit](https://github.com/dbfit/dbfit) ⭐ 243 | 🐛 149 | 🌐 Java | 📅 2026-04-08 - A database testing framework that supports easy test-driven development of your database code.
 
 ## HA/Failover/Sharding
 
-* [Vitess](https://github.com/vitessio/vitess) ⭐ 21,220 | 🐛 1,069 | 🌐 Go | 📅 2026-08-12 - Database clustering system for horizontal scaling of MySQL through generalized sharding.
-* [ShardingSphere](https://github.com/apache/shardingsphere) ⭐ 20,778 | 🐛 324 | 🌐 Java | 📅 2026-08-13 - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
-* [Citus](https://github.com/citusdata/citus) ⭐ 12,685 | 🐛 1,053 | 🌐 C | 📅 2026-08-12 - PostgreSQL extension that distributes your data and your queries across multiple nodes.
-* [patroni](https://github.com/zalando/patroni) ⭐ 8,654 | 🐛 55 | 🌐 Python | 📅 2026-08-12 - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
-* [stolon](https://github.com/sorintlab/stolon) ⭐ 4,824 | 🐛 153 | 🌐 Go | 📅 2024-07-08 - Cloud native PostgreSQL manager for PostgreSQL high availability.
-* [autobase](https://github.com/vitabaks/autobase) ⭐ 4,332 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-12 - Open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
-* [pg\_auto\_failover](https://github.com/citusdata/pg_auto_failover) ⭐ 1,373 | 🐛 106 | 🌐 C | 📅 2026-08-12 - PostgreSQL extension and service for automated failover and high-availability.
+* [Vitess](https://github.com/vitessio/vitess) ⭐ 21,221 | 🐛 1,073 | 🌐 Go | 📅 2026-08-14 - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+* [ShardingSphere](https://github.com/apache/shardingsphere) ⭐ 20,778 | 🐛 325 | 🌐 Java | 📅 2026-08-14 - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
+* [Citus](https://github.com/citusdata/citus) ⭐ 12,689 | 🐛 1,055 | 🌐 C | 📅 2026-08-13 - PostgreSQL extension that distributes your data and your queries across multiple nodes.
+* [patroni](https://github.com/zalando/patroni) ⭐ 8,655 | 🐛 55 | 🌐 Python | 📅 2026-08-12 - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
+* [stolon](https://github.com/sorintlab/stolon) ⭐ 4,825 | 🐛 153 | 🌐 Go | 📅 2024-07-08 - Cloud native PostgreSQL manager for PostgreSQL high availability.
+* [autobase](https://github.com/vitabaks/autobase) ⭐ 4,334 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-12 - Open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
+* [pg\_auto\_failover](https://github.com/citusdata/pg_auto_failover) ⭐ 1,373 | 🐛 106 | 🌐 C | 📅 2026-08-13 - PostgreSQL extension and service for automated failover and high-availability.
 * [pgslice](https://github.com/ankane/pgslice) ⭐ 1,244 | 🐛 4 | 🌐 Ruby | 📅 2026-06-29 - PostgreSQL partitioning as easy as pie.
 * [Percona XtraDB Cluster](https://github.com/percona/percona-xtradb-cluster) ⭐ 387 | 🐛 20 | 🌐 C++ | 📅 2026-08-12 - A High Scalability Solution for MySQL Clustering and High Availability.
 * [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) ⭐ 351 | 🐛 18 | 🌐 Perl | 📅 2024-06-13 - High-Availibility for PostgreSQL, based on industry references Pacemaker and Corosync.
@@ -327,8 +327,8 @@ Low-code and no-code platforms for application building
 
 ## Kubernetes
 
-* [PostgreSQL operator](https://github.com/zalando/postgres-operator) ⭐ 5,222 | 🐛 538 | 🌐 Go | 📅 2026-08-12 - The PostgreSQL Operator enables highly-available PostgreSQL clusters on Kubernetes (Kubernetes) powered by Patroni.
-* [Spilo](https://github.com/zalando/spilo) ⭐ 1,854 | 🐛 144 | 🌐 Python | 📅 2026-07-31 - HA PostgreSQL Clusters with Docker.
+* [PostgreSQL operator](https://github.com/zalando/postgres-operator) ⭐ 5,223 | 🐛 542 | 🌐 Go | 📅 2026-08-12 - The PostgreSQL Operator enables highly-available PostgreSQL clusters on Kubernetes (Kubernetes) powered by Patroni.
+* [Spilo](https://github.com/zalando/spilo) ⭐ 1,854 | 🐛 145 | 🌐 Python | 📅 2026-08-13 - HA PostgreSQL Clusters with Docker.
 * [KubeDB](https://kubedb.com) - Making running production-grade databases easy on Kubernetes.
 * [StackGres](https://gitlab.com/ongresinc/stackgres) - Enterprise-grade, Full Stack PostgreSQL on Kubernetes.
 
@@ -351,9 +351,9 @@ Low-code and no-code platforms for application building
 
 ## Distributions
 
-* [Postgres.app](https://github.com/PostgresApp/PostgresApp) ⭐ 7,764 | 🐛 145 | 🌐 Makefile | 📅 2026-08-13 - Full-featured PostgreSQL installation packaged as a standard Mac app.
-* [Pigsty](https://github.com/Vonng/pigsty) ⭐ 5,522 | 🐛 27 | 🌐 Shell | 📅 2026-08-10 - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
-* [dbatools](https://github.com/sqlcollaborative/dbatools) ⭐ 2,823 | 🐛 34 | 🌐 PowerShell | 📅 2026-08-12 - PowerShell module that you may think of like a command-line SQL Server Management Studio.
+* [Postgres.app](https://github.com/PostgresApp/PostgresApp) ⭐ 7,765 | 🐛 145 | 🌐 Makefile | 📅 2026-08-13 - Full-featured PostgreSQL installation packaged as a standard Mac app.
+* [Pigsty](https://github.com/Vonng/pigsty) ⭐ 5,523 | 🐛 26 | 🌐 Shell | 📅 2026-08-14 - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
+* [dbatools](https://github.com/sqlcollaborative/dbatools) ⭐ 2,823 | 🐛 27 | 🌐 PowerShell | 📅 2026-08-13 - PowerShell module that you may think of like a command-line SQL Server Management Studio.
 * [DBdeployer](https://github.com/datacharmer/dbdeployer) ⚠️ Archived - Tool that deploys MySQL database servers easily.
 * [Elephant Shed](https://github.com/credativ/elephant-shed) ⭐ 230 | 🐛 6 | 🌐 Shell | 📅 2026-08-03 - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
 * [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of PostgreSQL.
@@ -368,7 +368,7 @@ Low-code and no-code platforms for application building
 
 ### Analyzers
 
-* [SQLFluff](https://github.com/sqlfluff/sqlfluff) ⭐ 9,851 | 🐛 330 | 🌐 Python | 📅 2026-08-12 - Dialect-flexible and configurable SQL linter.
+* [SQLFluff](https://github.com/sqlfluff/sqlfluff) ⭐ 9,851 | 🐛 322 | 🌐 Python | 📅 2026-08-13 - Dialect-flexible and configurable SQL linter.
 * [SQLCheck](https://github.com/jarulraj/sqlcheck) ⭐ 2,520 | 🐛 14 | 🌐 C++ | 📅 2024-02-21 - Automatically detects common SQL anti-patterns.
 * [SQLLineage](https://github.com/reata/sqllineage) ⭐ 1,675 | 🐛 53 | 🌐 Python | 📅 2026-08-10 - SQL Lineage Analysis Tool powered by Python.
 * [TSQLLint](https://github.com/tsqllint/tsqllint) ⭐ 230 | 🐛 18 | 🌐 C# | 📅 2026-06-25 - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
@@ -391,7 +391,7 @@ Low-code and no-code platforms for application building
 
 ### Formatters
 
-* [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) ⭐ 2,886 | 🐛 80 | 🌐 TypeScript | 📅 2026-07-23 - JavaScript library for pretty-printing SQL queries.
+* [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) ⭐ 2,884 | 🐛 80 | 🌐 TypeScript | 📅 2026-07-23 - JavaScript library for pretty-printing SQL queries.
 * [pgFormatter](https://github.com/darold/pgFormatter) ⭐ 1,959 | 🐛 24 | 🌐 PLpgSQL | 📅 2026-07-15 - A PostgreSQL SQL syntax beautifier.
 * [CodeBuff](https://github.com/antlr/codebuff) ⭐ 477 | 🐛 6 | 🌐 Java | 📅 2025-07-12 - Language-agnostic pretty-printing through machine learning.
 * [JSQLFormatter](https://github.com/manticore-projects/jsqlformatter) ⭐ 43 | 🐛 8 | 🌐 Java | 📅 2026-07-31 - Open Source Java SQL Formatter for many RDBMS based on JSqlParser.
@@ -409,11 +409,11 @@ Low-code and no-code platforms for application building
 
 ### Parsers
 
-* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,524 | 🐛 5 | 🌐 Python | 📅 2026-08-12 - Pure Python SQL parser, transpiler, and builder.
-* [jOOQ](https://github.com/jOOQ/jOOQ) ⭐ 6,769 | 🐛 2,122 | 🌐 Java | 📅 2026-08-12 - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
-* [JSqlParser](https://github.com/JSQLParser/JSqlParser) ⭐ 5,958 | 🐛 76 | 🌐 Java | 📅 2026-08-12 - Parses an SQL statement and translate it into a hierarchy of Java classes.
-* [sqlparse](https://github.com/andialbrecht/sqlparse) ⭐ 4,011 | 🐛 274 | 🌐 Python | 📅 2026-08-10 - Non-validating SQL parser for Python.
-* [libpg\_query](https://github.com/pganalyze/libpg_query) ⭐ 1,477 | 🐛 64 | 🌐 C | 📅 2026-07-24 - C library for accessing the PostgreSQL parser outside of the server environment.
+* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,526 | 🐛 5 | 🌐 Python | 📅 2026-08-14 - Pure Python SQL parser, transpiler, and builder.
+* [jOOQ](https://github.com/jOOQ/jOOQ) ⭐ 6,770 | 🐛 2,124 | 🌐 Java | 📅 2026-08-12 - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
+* [JSqlParser](https://github.com/JSQLParser/JSqlParser) ⭐ 5,957 | 🐛 72 | 🌐 Java | 📅 2026-08-14 - Parses an SQL statement and translate it into a hierarchy of Java classes.
+* [sqlparse](https://github.com/andialbrecht/sqlparse) ⭐ 4,012 | 🐛 274 | 🌐 Python | 📅 2026-08-13 - Non-validating SQL parser for Python.
+* [libpg\_query](https://github.com/pganalyze/libpg_query) ⭐ 1,477 | 🐛 65 | 🌐 C | 📅 2026-08-13 - C library for accessing the PostgreSQL parser outside of the server environment.
 * [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) ⭐ 294 | 🐛 13 | 🌐 Python | 📅 2025-10-28 - Parse SQL into JSON.
 * [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
 
@@ -421,14 +421,14 @@ Low-code and no-code platforms for application building
 
 Run SQL queries against anything
 
-* [osquery](https://github.com/osquery/osquery) ⭐ 23,457 | 🐛 625 | 🌐 C++ | 📅 2026-08-13 - SQL powered operating system instrumentation, monitoring, and analytics.
-* [Trino](https://github.com/trinodb/trino) ⭐ 13,135 | 🐛 2,694 | 🌐 Java | 📅 2026-08-13 - Distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
+* [osquery](https://github.com/osquery/osquery) ⭐ 23,459 | 🐛 618 | 🌐 C++ | 📅 2026-08-13 - SQL powered operating system instrumentation, monitoring, and analytics.
+* [Trino](https://github.com/trinodb/trino) ⭐ 13,139 | 🐛 2,693 | 🌐 Java | 📅 2026-08-14 - Distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
 * [TextQL](https://github.com/dinedal/textql) ⭐ 9,106 | 🐛 38 | 🌐 Go | 📅 2023-10-22 - Execute SQL against structured text like CSV or TSV.
-* [Steampipe](https://github.com/turbot/steampipe) ⭐ 7,909 | 🐛 21 | 🌐 Go | 📅 2026-08-10 - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
-* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,480 | 🐛 165 | 🌐 Go | 📅 2026-08-12 - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
-* [OctoSQL](https://github.com/cube2222/octosql) ⭐ 5,264 | 🐛 49 | 🌐 Go | 📅 2024-05-26 - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
-* [dsq](https://github.com/multiprocessio/dsq) ⭐ 3,867 | 🐛 22 | 🌐 Go | 📅 2023-09-30 - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-* [sq](https://github.com/neilotoole/sq) ⭐ 2,549 | 🐛 66 | 🌐 Go | 📅 2026-08-12 - Command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq.
+* [Steampipe](https://github.com/turbot/steampipe) ⭐ 7,911 | 🐛 21 | 🌐 Go | 📅 2026-08-10 - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
+* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,482 | 🐛 164 | 🌐 Go | 📅 2026-08-13 - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
+* [OctoSQL](https://github.com/cube2222/octosql) ⭐ 5,263 | 🐛 46 | 🌐 Go | 📅 2024-05-26 - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+* [dsq](https://github.com/multiprocessio/dsq) ⭐ 3,866 | 🐛 22 | 🌐 Go | 📅 2023-09-30 - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+* [sq](https://github.com/neilotoole/sq) ⭐ 2,552 | 🐛 66 | 🌐 Go | 📅 2026-08-12 - Command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq.
 * [trdsql](https://github.com/noborus/trdsql) ⭐ 2,169 | 🐛 13 | 🌐 Go | 📅 2026-07-17 - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 * [csvq](https://github.com/mithrandie/csvq) ⭐ 1,626 | 🐛 27 | 🌐 Go | 📅 2024-07-25 - SQL-like query language for CSV.
 * [MAT Calcite plugin](https://github.com/vlsi/mat-calcite-plugin) ⭐ 182 | 🐛 22 | 🌐 Java | 📅 2026-07-10 - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
@@ -437,14 +437,14 @@ Run SQL queries against anything
 ### Language Server Protocol
 
 * [sqls](https://github.com/lighttiger2505/sqls) ⭐ 1,330 | 🐛 44 | 🌐 Go | 📅 2026-07-15 - SQL Language Server written in Go.
-* [SQLLanguageServer](https://github.com/joe-re/sql-language-server) ⭐ 772 | 🐛 66 | 🌐 TypeScript | 📅 2024-12-05 - SQL Language Server.
+* [SQLLanguageServer](https://github.com/joe-re/sql-language-server) ⭐ 774 | 🐛 66 | 🌐 TypeScript | 📅 2024-12-05 - SQL Language Server.
 
 ### Learning
 
 Learning and puzzles for SQL
 
-* [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) ⭐ 2,163 | 🐛 19 | 🌐 JavaScript | 📅 2025-04-14 - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
-* [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) ⭐ 916 | 🐛 0 | 🌐 TSQL | 📅 2026-07-21 - Difficult set-based SQL puzzles.
+* [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) ⭐ 2,167 | 🐛 20 | 🌐 JavaScript | 📅 2025-04-14 - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+* [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) ⭐ 916 | 🐛 0 | 🌐 TSQL | 📅 2026-08-13 - Difficult set-based SQL puzzles.
 * [Hackerrank](https://www.hackerrank.com/domains/sql) - Practice coding, prepare for interviews, and get hired.
 * [Learn SQL in a Month of Lunches](https://www.manning.com/books/learn-sql-in-a-month-of-lunches) - A book about how to use SQL to retrieve, filter, and analyze data.
 * [LeetCode](https://leetcode.com/problemset/database) - Enhance your skills, expand your knowledge and prepare for technical interviews.
@@ -453,17 +453,17 @@ Learning and puzzles for SQL
 
 ### Plan
 
-* [pev2](https://github.com/dalibo/pev2) ⭐ 3,557 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-11 - A Vue.js component to show a graphical vizualization of a PostgreSQL execution plan.
+* [pev2](https://github.com/dalibo/pev2) ⭐ 3,563 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-11 - A Vue.js component to show a graphical vizualization of a PostgreSQL execution plan.
 * [pg\_flame](https://github.com/mgartner/pg_flame) ⭐ 1,619 | 🐛 2 | 🌐 Go | 📅 2020-01-13 - A flamegraph generator for PostgreSQL `EXPLAIN ANALYZE` output.
 
 ### Scripts
 
 Useful SQL-scripts for various purposes
 
-* [pgx\_scripts](https://github.com/pgexperts/pgx_scripts) ⭐ 1,469 | 🐛 8 | 🌐 Shell | 📅 2023-08-10 - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
-* [postgres\_dba](https://github.com/NikolayS/postgres_dba) ⭐ 1,283 | 🐛 4 | 🌐 PLpgSQL | 📅 2026-04-22 - The missing set of useful tools for PostgreSQL DBAs and all engineers.
+* [pgx\_scripts](https://github.com/pgexperts/pgx_scripts) ⭐ 1,468 | 🐛 8 | 🌐 Shell | 📅 2023-08-10 - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
+* [postgres\_dba](https://github.com/NikolayS/postgres_dba) ⭐ 1,283 | 🐛 6 | 🌐 PLpgSQL | 📅 2026-08-14 - The missing set of useful tools for PostgreSQL DBAs and all engineers.
 * [pg-utils](https://github.com/dataegret/pg-utils) ⭐ 1,218 | 🐛 6 | 🌐 Shell | 📅 2026-06-29 - Useful PostgreSQL utilities.
-* [TPT](https://github.com/tanelpoder/tpt-oracle) ⭐ 729 | 🐛 16 | 🌐 PLSQL | 📅 2026-06-02 - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
+* [TPT](https://github.com/tanelpoder/tpt-oracle) ⭐ 730 | 🐛 16 | 🌐 PLSQL | 📅 2026-06-02 - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
 * [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) ⭐ 578 | 🐛 5 | 📅 2022-08-23 - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
 * [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) ⭐ 105 | 🐛 5 | 🌐 PLpgSQL | 📅 2026-07-21 - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
 * [pgWikiDont](https://gitlab.com/depesz/pgWikiDont) - SQL test that checks if your database follows rules from <https://wiki.postgresql.org/wiki/Don't_Do_This>.
@@ -472,12 +472,12 @@ Useful SQL-scripts for various purposes
 
 ## Data
 
-* [dbt](https://github.com/dbt-labs/dbt-core) ⭐ 13,633 | 🐛 1,504 | 🌐 Rust | 📅 2026-08-13 - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+* [dbt](https://github.com/dbt-labs/dbt-core) ⭐ 13,638 | 🐛 1,513 | 🌐 Rust | 📅 2026-08-14 - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 * [QuickTable](https://quicktable.io) - Empowers everyone to access, clean, analyze, transform, and model data with no code.
 
 ### Catalog
 
-* [DataHub](https://github.com/datahub-project/datahub) ⭐ 12,522 | 🐛 1,194 | 🌐 Python | 📅 2026-08-13 - The Metadata Platform for the Modern Data Stack.
+* [DataHub](https://github.com/datahub-project/datahub) ⭐ 12,529 | 🐛 1,211 | 🌐 Python | 📅 2026-08-14 - The Metadata Platform for the Modern Data Stack.
 * [Amundsen](https://github.com/amundsen-io/amundsen) ⭐ 4,781 | 🐛 63 | 🌐 Python | 📅 2026-08-01 - Metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 * [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,259 | 🐛 249 | 🌐 Java | 📅 2026-08-11 - Collect, aggregate, and visualize a data ecosystem's metadata.
 
@@ -487,9 +487,9 @@ Useful SQL-scripts for various purposes
 
 ### Generation/Masking/Subsetting
 
-* [Faker](https://github.com/faker-js/faker) ⭐ 15,448 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-12 - Generate massive amounts of fake data in the browser and Node.js.
+* [Faker](https://github.com/faker-js/faker) ⭐ 15,448 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-13 - Generate massive amounts of fake data in the browser and Node.js.
 * [Greenmask](https://github.com/GreenmaskIO/greenmask) ⭐ 1,745 | 🐛 51 | 🌐 Go | 📅 2026-08-05 - Database anonymization and synthetic data generation tool for MySQL and PostgreSQL.
-* [Noisia](https://github.com/lesovsky/noisia) ⭐ 796 | 🐛 0 | 🌐 Go | 📅 2026-07-14 - Harmful workload generator for PostgreSQL.
+* [Noisia](https://github.com/lesovsky/noisia) ⭐ 797 | 🐛 0 | 🌐 Go | 📅 2026-07-14 - Harmful workload generator for PostgreSQL.
 * [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) ⭐ 161 | 🐛 8 | 🌐 Java | 📅 2026-08-10 - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 * [myanon](https://github.com/ppomes/myanon) ⭐ 124 | 🐛 0 | 🌐 C | 📅 2026-07-24 - Streaming anonymizer for MySQL dump files. Reads mysqldump from stdin, writes anonymized version to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 * [quick-seed](https://github.com/miit-daga/quick-seed) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-27 - Database-agnostic seeding tool for generating realistic test data with support for PostgreSQL, MySQL, SQLite, Prisma, and Drizzle ORM.
@@ -502,16 +502,16 @@ Useful SQL-scripts for various purposes
 
 ### Data Profilers
 
-* [YData Profiling](https://github.com/ydataai/ydata-profiling) ⭐ 13,669 | 🐛 323 | 🌐 Python | 📅 2026-04-22 - A general-purpose open-source data profiler for high-level analysis of a dataset.
-* [Data Profiler](https://github.com/capitalone/dataprofiler) ⭐ 1,573 | 🐛 78 | 🌐 Python | 📅 2026-07-20 - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
-* [Desbordante](https://github.com/desbordante/desbordante-core) ⭐ 494 | 🐛 91 | 🌐 C++ | 📅 2026-08-08 - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+* [YData Profiling](https://github.com/ydataai/ydata-profiling) ⭐ 13,672 | 🐛 323 | 🌐 Python | 📅 2026-04-22 - A general-purpose open-source data profiler for high-level analysis of a dataset.
+* [Data Profiler](https://github.com/capitalone/dataprofiler) ⭐ 1,574 | 🐛 78 | 🌐 Python | 📅 2026-07-20 - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
+* [Desbordante](https://github.com/desbordante/desbordante-core) ⭐ 496 | 🐛 91 | 🌐 C++ | 📅 2026-08-08 - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
 ### Replication
 
-* [Litestream](https://github.com/benbjohnson/litestream) ⭐ 14,240 | 🐛 111 | 🌐 Go | 📅 2026-08-05 - Streaming replication for SQLite.
+* [Litestream](https://github.com/benbjohnson/litestream) ⭐ 14,249 | 🐛 112 | 🌐 Go | 📅 2026-08-05 - Streaming replication for SQLite.
 * [pgsync](https://github.com/ankane/pgsync) ⭐ 3,467 | 🐛 14 | 🌐 Ruby | 📅 2025-12-26 - Sync PostgreSQL data between databases.
-* [repmgr](https://github.com/2ndQuadrant/repmgr) ⭐ 1,707 | 🐛 135 | 🌐 C | 📅 2026-03-28 - The Most Popular Replication Manager for PostgreSQL.
-* [dtle](https://github.com/actiontech/dtle) ⭐ 559 | 🐛 138 | 🌐 Go | 📅 2023-12-12 - Distributed Data Transfer Service for MySQL.
+* [repmgr](https://github.com/2ndQuadrant/repmgr) ⭐ 1,707 | 🐛 137 | 🌐 C | 📅 2026-03-28 - The Most Popular Replication Manager for PostgreSQL.
+* [dtle](https://github.com/actiontech/dtle) ⭐ 558 | 🐛 138 | 🌐 Go | 📅 2023-12-12 - Distributed Data Transfer Service for MySQL.
 * [pg\_chameleon](https://github.com/the4thdoctor/pg_chameleon) ⭐ 439 | 🐛 48 | 🌐 Python | 📅 2026-05-25 - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
 * [PGDeltaStream](https://github.com/hasura/pgdeltastream) ⭐ 257 | 🐛 5 | 🌐 Go | 📅 2018-06-13 - A Golang webserver to stream PostgreSQL changes atleast-once over websockets, using PostgreSQL logical decoding feature.
 
@@ -529,8 +529,8 @@ Documents, articles, manifestos and other theoretical materials on database tool
 
 ## Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,541 | 🐛 4 | 🌐 Makefile | 📅 2026-08-12 - In-database Machine Learning.
-* [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,188 | 🐛 250 | 🌐 Go | 📅 2024-04-18 - Brings SQL and AI together.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,564 | 🐛 4 | 🌐 Makefile | 📅 2026-08-13 - In-database Machine Learning.
+* [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,187 | 🐛 250 | 🌐 Go | 📅 2024-04-18 - Brings SQL and AI together.
 
 ## Contributing
 
@@ -538,4 +538,4 @@ Documents, articles, manifestos and other theoretical materials on database tool
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
